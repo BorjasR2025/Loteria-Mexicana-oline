@@ -1,4 +1,4 @@
-# 🐴 Lotería Ranchera Mexicana
+# 🐴 Lotería Mexicana
 
 ¡Bienvenido a **Lotería Ranchera**! Una versión digital y temática del clásico juego de la Lotería Mexicana. El objetivo es ser el primero en completar una figura en tu tabla (carta) cantando "¡Lotería!".
 
